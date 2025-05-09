@@ -8,16 +8,6 @@
         "type": "article",
         "year": "2024"
     },
-    "ding2021imagequality": {
-        "author": "Ding, Keyan and Ma, Kede and Wang, Shiqi and Simoncelli, Eero P.",
-        "doi": "10.1109/TIP.2020.2987618",
-        "journal": "IEEE Transactions on Image Processing",
-        "pages": "5109--5121",
-        "title": "Comparison of Full-Reference Image Quality Models for Optimization of Image Processing Systems",
-        "type": "article",
-        "volume": "29",
-        "year": "2021"
-    },
     "guo2024alphazeroconnect4": {
         "author": "Guo, Yubo",
         "doi": "10.54254/2755-2721/33/20230228",
@@ -34,6 +24,16 @@
         "title": "Beyond games: a systematic review of neural Monte Carlo tree search applications",
         "type": "article",
         "year": "2023"
+    },
+    "schneider2013neural": {
+        "author": "M. O. Schneider and J. L. Garcia Rosa",
+        "booktitle": "2013 IEEE Congress on Evolutionary Computation (CEC)",
+        "doi": "10.1109/CEC.2013.6557764",
+        "pages": "2009--2015",
+        "publisher": "IEEE",
+        "title": "Neural Connect 4 - A Connectionist Approach to the Game",
+        "type": "inproceedings",
+        "year": "2013"
     },
     "schrittwieser2020muzero": {
         "author": "Schrittwieser, Julian and Antonoglou, Ioannis and Hubert, Thomas and Simonyan, Karen and Sifre, Laurent and Schmitt, Simon and Guez, Arthur and Lockhart, Edward and Hassabis, Demis and Graepel, Thore and Lillicrap, Timothy and Silver, David",
